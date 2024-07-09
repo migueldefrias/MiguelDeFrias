@@ -3,8 +3,8 @@ repo_url: https://github.com/migueldefrias/MiguelDeFrias.git
 repo_name: MiguelDeFrias
 
 theme:
-  icon:
-   repo: fontawesome/brands/git-alt
+  icon: 
+   repo: 
   name: material
   features:
     - navigation.instant
@@ -20,14 +20,14 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
-      primary: teal
-      accent: green
+      primary: black
+      accent: blue  
     - scheme: slate 
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode    
-      primary: teal
-      accent: blue
+      primary: dark blue
+      accent: yellow
 
 nav:
   - Página Inicial: index.md
