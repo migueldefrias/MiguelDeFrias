@@ -1,5 +1,5 @@
-site_name: My Docs
-repo_url: https://github.com/migueldefrias/MiguelDeFrias.git
+site_name: Miguel de Frias
+repo_url: https://migueldefrias.git
 repo_name: MiguelDeFrias
 
 theme:
@@ -14,7 +14,7 @@ theme:
     - navigation.top
     - navigation.footer
 
-  language: pt
+  language: eng
   palette:
     - scheme: default
       toggle:
@@ -30,4 +30,4 @@ theme:
       accent: yellow
 
 nav:
-  - Página Inicial: index.md
+  - Introduction: index.md
