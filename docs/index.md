@@ -21,12 +21,12 @@ Full-stack Development, Artificial Intelligence, Machine Learning, Databases, So
 **Tools and Methodologies:** Git, GitHub, Postman, Figma, Scrum.<br>
 **Other Skills:** Data Structures, Algorithms, Operating Systems, and Computer Networks.<br>
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 Developer - UnB/DNIT (Mar 2023 - Jul 2023)<br>
 Worked on full-stack application development for the National Department of Infrastructure and Transport (DNIT).<br>
 Technologies used: .NET, C#, React, TypeScript, PostgreSQL, Figma.
 
-## 📚 Certifications
+### 📚 Certifications
 [Pearson English Certification - Wizard by Pearson](/Cert.Ingles_MiguelBarbosa.pdf)
 
 ## 📫 Contact
