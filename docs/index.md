@@ -6,23 +6,17 @@
 Bachelor's Degree in Software Engineering (Expected graduation: 2026.1)
 ### 💻 Professional Experience: 
 
-#### **Pesquisador em Inteligência Artificial - Centro de Estudos, Desenvolvimento e Inovação em Software (CEDIS)** | Mar 2025 – Atualmente
-Pesquisador de inteligência artificial no desenvolvimento de um projeto focado na concepção de
-um sistema inteligente para otimizar a análise de processos organizacionais, utilizando modelos
-de linguagem de larga escala (LLMs) , aprendizado de máquina (ML) e model context protocol
-(MCP).
+#### **Artificial Intelligence Researcher – Center for Studies, Development, and Innovation in Software (CEDIS)** | Mar 2025 – Present
+AI researcher in the development of a project focused on designing an intelligent system to optimize the analysis of organizational processes, using large language models (LLMs), machine learning (ML), and model context protocol (MCP).
 
-#### **Desenvolvedor Fullstack - DNIT** | Fev 2023 – Jul 2023
-Desenvolvimento e manutenção de aplicação para o DNIT com .NET, C#, React, TypeScript e
-PostgreSQL.
+#### **Fullstack Developer – DNIT** | Feb 2023 – Jul 2023
+Development and maintenance of an application for DNIT using .NET, C#, React, TypeScript, and PostgreSQL.
 
-**Monitor de Testes de Software - UnB/FCTE** | Fev 2024 – Fev 2025
-Execução de testes automatizados com JUnit, Pytest, Postman e Jest.
-Contribuição para a melhoria da qualidade de sistemas acadêmicos.
+#### **Software Testing Teaching Assistant – UnB/FCTE** | Feb 2024 – Feb 2025
+Execution of automated tests using JUnit, Pytest, Postman, and Jest. Contributed to improving the quality of academic systems.
 
-**Monitor de Engenharia Econômica - UnB/FCTE** | Ago 2023 – Dez 2023
-Análise de viabilidade econômica com Excel e Python (VPL, TIR, Payback).
-Apoio em decisões financeiras acadêmicas e aplicação de conceitos financeiros.
+#### **Engineering Economics Teaching Assistant – UnB/FCTE** | Aug 2023 – Dec 2023
+Economic feasibility analysis using Excel and Python (NPV, IRR, Payback). Supported academic financial decision-making and the application of financial concepts.
 
 ### 🌎 Languages:
 English: Fluent, [Pearson English Certification - Wizard by Pearson](/Cert.Ingles_MiguelBarbosa.pdf) <br>
