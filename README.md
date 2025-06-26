@@ -1,7 +1,7 @@
 # Hi!
 ## I'm Miguel de Frias!
 
-- I’m studying Software Engineering at the University of Brasília (UnB). 
+- Studying Software Engineering at the University of Brasília (UnB). 
 - Passionate about Machine Learning, and developing innovative solutions to real-world problems. With experience in .NET, C#, Python, Java, and a solid understanding of Databases and Software Testing.
 - I’m always excited to learn, improve, and contribute to impactful projects.
 

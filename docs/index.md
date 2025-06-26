@@ -1,40 +1,45 @@
 # Hi!
 ## I'm Miguel de Frias!
 
-I’m studying Software Engineering student at the University of Brasília (UnB). Passionate about Artificial Intelligence, Machine Learning, and developing innovative solutions to real-world problems. With experience in .NET, C#, Python, Java, and a solid understanding of Databases and Software Testing. I’m always excited to learn, improve, and contribute to impactful projects.
-
-
 ## 🚀 About Me
 ### 🎓 Education:
-Bachelor's Degree in Software Engineering (Expected graduation: 2025)
+Bachelor's Degree in Software Engineering (Expected graduation: 2026.1)
 ### 💻 Professional Experience: 
-Full-stack development for DNIT projects, utilizing .NET, React, TypeScript, PostgreSQL, and other modern technologies.
+
+#### **Pesquisador em Inteligência Artificial - Centro de Estudos, Desenvolvimento e Inovação em Software (CEDIS)** | Mar 2025 – Atualmente
+Pesquisador de inteligência artificial no desenvolvimento de um projeto focado na concepção de
+um sistema inteligente para otimizar a análise de processos organizacionais, utilizando modelos
+de linguagem de larga escala (LLMs) , aprendizado de máquina (ML) e model context protocol
+(MCP).
+
+#### **Desenvolvedor Fullstack - DNIT** | Fev 2023 – Jul 2023
+Desenvolvimento e manutenção de aplicação para o DNIT com .NET, C#, React, TypeScript e
+PostgreSQL.
+
+**Monitor de Testes de Software - UnB/FCTE** | Fev 2024 – Fev 2025
+Execução de testes automatizados com JUnit, Pytest, Postman e Jest.
+Contribuição para a melhoria da qualidade de sistemas acadêmicos.
+
+**Monitor de Engenharia Econômica - UnB/FCTE** | Ago 2023 – Dez 2023
+Análise de viabilidade econômica com Excel e Python (VPL, TIR, Payback).
+Apoio em decisões financeiras acadêmicas e aplicação de conceitos financeiros.
+
 ### 🌎 Languages:
-English: Advanced <br>
+English: Fluent, [Pearson English Certification - Wizard by Pearson](/Cert.Ingles_MiguelBarbosa.pdf) <br>
 Spanish: Intermediate
 ### 🌱 Interests: 
 Full-stack Development, Artificial Intelligence, Machine Learning, Databases, Software Testing, and Software Engineering.
-### 🛠️ Technical Skills
-**Programming Languages:** Python, Java, C/C++, C#, TypeScript, JavaScript, Pascal, Assembly.<br>
-**Front-end:** React, React Native, FlutterFlow, HTML, CSS, TailwindCSS.<br>
-**Back-end:** .NET, SQL, PostgreSQL, MySQL.<br>
-**Tools and Methodologies:** Git, GitHub, Postman, Figma, Scrum.<br>
-**Other Skills:** Data Structures, Algorithms, Operating Systems, and Computer Networks.<br>
+### 🛠️ Skills
 
-### 💼 Professional Experience
-Developer - UnB/DNIT (Mar 2023 - Jul 2023)<br>
-Worked on full-stack application development for the National Department of Infrastructure and Transport (DNIT).<br>
-Technologies used: .NET, C#, React, TypeScript, PostgreSQL, Figma.
+React, HTML, CSS, JavaScript, TypeScript, Git, Python, Java, C/C++/C#, .NET, SQL, Postman API
 
-### 📚 Certifications
-[Pearson English Certification - Wizard by Pearson](/Cert.Ingles_MiguelBarbosa.pdf)
 
-## 📫 Contact
+### 📫 Contact
 Email: miguelfrias8@gmail.com <br>
 Location: Brasília, Brazil <br>
 Number: +55 61 98567-0181
 
-## 🌐 Other links
+## 🌐 Check my other links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/miguel-de-frias/)
 
