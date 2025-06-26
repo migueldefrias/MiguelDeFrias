@@ -19,7 +19,7 @@ Execution of automated tests using JUnit, Pytest, Postman, and Jest. Contributed
 Economic feasibility analysis using Excel and Python (NPV, IRR, Payback). Supported academic financial decision-making and the application of financial concepts.
 
 ### 🌎 Languages:
-English: Fluent, [Pearson English Certification - Wizard by Pearson](/Cert.Ingles_MiguelBarbosa.pdf) <br>
+English: Fluent, [Pearson English Certification - Wizard by Pearson](https://github.com/migueldefrias/MiguelDeFrias/blob/main/Cert.Ingles_MiguelBarbosa.pdf) <br>
 Spanish: Intermediate
 ### 🌱 Interests: 
 Full-stack Development, Artificial Intelligence, Machine Learning, Databases, Software Testing, and Software Engineering.
