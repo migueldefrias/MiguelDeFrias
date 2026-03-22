@@ -1,7 +1,7 @@
 # Hi!
 ## I'm Miguel de Frias!
 
-- B.S. in Software Engineering from the University of Brasília
+- AI Agent Engineer at AlphaCorp AI · M.Sc. Computer Science at UnB
 
 
 ## Other links
