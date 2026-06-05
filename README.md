@@ -23,10 +23,6 @@ I build production-ready AI agents and RAG pipelines that turn large language mo
 - **AI Agent Engineer** at **AlphaCorp AI** — building production agents and pipelines.
 - **M.Sc. Computer Science** candidate at **Universidade de Brasília (UnB)**.
 
-## Selected impact
-
-- **SEI Expert** — Led the AI layer of a public-sector system that analyzes administrative processes for the Brazilian government, combining LLMs, RAG, and MCP to deliver source-traceable answers grounded in legislation and process data.
-
 ## Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-de-frias/)
